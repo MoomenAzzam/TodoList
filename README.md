@@ -19,6 +19,6 @@ npm run dev
 ```sh
 npm run build
 ```
-# demo :[demo](https://todolistmoomenazzam.netlify.app)
+# [Demo of the application](https://todolistmoomenazzam.netlify.app)
 
 ![todo](https://github.com/MoomenAzzam/TodoList/assets/82784364/a171a823-cb0c-44a6-be3b-06a326517d69)
